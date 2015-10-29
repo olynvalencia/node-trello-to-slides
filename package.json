@@ -1,0 +1,9 @@
+{
+  "name": "node-trello-to-slides",
+  "version": "0.1.0",
+  "description": "node-trello-to-slides: Creates html slides from a trello board",
+  "dependencies": {
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  }
+}
